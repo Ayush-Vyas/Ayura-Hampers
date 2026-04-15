@@ -131,6 +131,7 @@ Ayura-Hampers/
 
 ## 👨‍💻 Author
 
+**Aarchi Patel**
 **Ayush Vyas**
 
 ---
